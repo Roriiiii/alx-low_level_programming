@@ -1,7 +1,7 @@
 #include <stdio.h> 
 /**
  * main - A function that displays the given input
- *Return: 0(Success)  
+ *Return: 0 (Success)  
  */
 int main(void)
 {
